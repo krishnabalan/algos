@@ -1,2 +1,2 @@
-# Algorithms and Data Structure
+# Algorithms and Data Structures
 Code for algorithmic problems
